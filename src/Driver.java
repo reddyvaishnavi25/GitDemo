@@ -6,5 +6,10 @@ public static void main(String args[])
 	myCar.setBrand("Honda city");
 	myCar.setCarId(123);
 	System.out.println(myCar.getBrand() + myCar.getCarId());
+	Bus myBus=new Bus();
+	myBus.setBusId(456);
+	myBus.setBusBrand("Ashok");
+	System.out.println(myBus.getBusBrand() + myBus.getBusId());
+	
 }
 }
