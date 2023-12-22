@@ -10,7 +10,6 @@ public static void main(String args[])
 	myBus.setBusId(456);
 	myBus.setBusBrand("Ashok");
 	System.out.println(myBus.getBusBrand() + myBus.getBusId());
-    System.out.println("Bye..!");
 
 	
 }
