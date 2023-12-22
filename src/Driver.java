@@ -2,6 +2,7 @@
 public class Driver {
 public static void main(String args[])
 {
+	System.out.println("Hello world");
 	Car myCar =new Car();
 	myCar.setBrand("Honda city");
 	myCar.setCarId(123);
@@ -10,6 +11,8 @@ public static void main(String args[])
 	myBus.setBusId(456);
 	myBus.setBusBrand("Ashok");
 	System.out.println(myBus.getBusBrand() + myBus.getBusId());
+    System.out.println("Bye..!");
+    System.out.println("learning git is fun")
 	
 }
 }
