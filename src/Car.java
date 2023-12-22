@@ -4,8 +4,7 @@ private int carId;
 private String brand;
 public Car()
 {
-	carId=000;
-	brand="BMW";
+	
 }
 public Car(int carId, String brand) {
 	super();
