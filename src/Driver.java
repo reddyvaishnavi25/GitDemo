@@ -12,6 +12,7 @@ public static void main(String args[])
 	myBus.setBusBrand("Ashok");
 	System.out.println(myBus.getBusBrand() + myBus.getBusId());
     System.out.println("Bye..!");
+    System.out.println("learning git is fun")
 
 	
 }
